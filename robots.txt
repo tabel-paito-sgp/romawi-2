@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://github.com/tabel-paito-sgp/romawi-2/sitemap.xml
